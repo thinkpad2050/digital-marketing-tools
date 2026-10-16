@@ -163,7 +163,7 @@ Here is a list of social media management tools along with their key features:
 ### [OpenSparta](https://opensparta.com/en)
 
 - Manage Telegram accounts and proxies, warm up accounts, and discover audiences.
-- Use AI-assisted contextual comments and reactions. New access requests are currently paused.
+- Coordinate Telegram engagement workflows from one workspace. New access requests are paused.
 
 
 ## **3. Email Marketing Software**
